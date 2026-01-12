@@ -20,8 +20,6 @@ My work sits at the intersection of science & technology studies, medical sociol
 - 🧾 Publications at [Scholar](https://scholar.google.com/citations?user=KwHx9pAAAAAJ&hl=es)  
 - 🌐 [Personal site](https://crisnavarrete.github.io/cnavarrete/)
 
----
-
 ## 🧾 Previous & ongoing topics
 I’ve worked on questions around:
 - antimicrobial resistance  
@@ -31,30 +29,23 @@ I’ve worked on questions around:
 - future studies  
 - energy transitions
 
----
-
 ## 🔭 Currently working on
 - Building a **longitudinal socio-environmental burden dataset (2005–2023)**
 - Case study design on **whole energy-system transitions**
 - Linking **policy/state action** to local socio-ecological impacts
 
----
-
 ## 🌱 Currently learning
 - Epidemiological spatial analysis  
 - Network analysis  
-
----
 
 ## 🤝 Let’s connect
 - Twitter/X: https://x.com/navarreteoya  
 - LinkedIn: https://www.linkedin.com/in/cristi%C3%A1n-marcelo-navarrete-116623216/  
 - Scholar: https://scholar.google.com/citations?user=KwHx9pAAAAAJ&hl=es  
 
----
 
 ## ⚡ Fun fact
-I do **muay thai** 🥊
+I do muay thai 🥊
 
 
 <img align='center' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJvcmU5am5mZDFyd2todWN5NG9oMWphbmQ1dWF1dzIwb3owZXJ5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d6Uw7LkUoiKzVOQ3Yn/giphy.gif' width='200"'>
