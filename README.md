@@ -12,7 +12,7 @@
 ## About me
 I’m Cristián Navarrete, an interdisciplinary environmental social scientist
 
-My work sits at the intersection of science & technology studies, medical sociology, and populations health. With a focus on how large-scale socio-technical change shapes communities’ wellbeing and environments.
+My work sits at the intersection of science & technology studies, medical sociology, and population's health. With a focus on how large-scale socio-technical change shapes communities’ wellbeing and environments.
 
 - 📍 Oxford (UK)  
 - 📫 cristian.navarreteoyanedel@anthro.ox.ac.uk
@@ -25,7 +25,7 @@ I’ve worked on questions around:
 - antimicrobial resistance  
 - tailing dams  
 - green hydrogen  
-- emergence, realism & causal mechanisms  
+- philosophy of social science & sociological theory 
 - future studies  
 - energy transitions
 
