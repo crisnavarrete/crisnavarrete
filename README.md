@@ -23,7 +23,7 @@ My work sits at the intersection of science & technology studies, medical sociol
 ## 🧾 Previous & ongoing topics
 I’ve worked on questions around:
 - antimicrobial resistance  
-- tailing dams  
+- mining  
 - green hydrogen  
 - philosophy of social science & sociological theory 
 - future studies  
