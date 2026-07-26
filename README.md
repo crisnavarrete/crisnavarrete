@@ -18,7 +18,7 @@ My work sits at the intersection of science & technology studies, medical sociol
 - 📫 cristian.navarreteoyanedel@anthro.ox.ac.uk
 - 🎯 Institutional page in [Oxford](https://www.anthro.ox.ac.uk/people/cristian-navarrete-oyanedel)  
 - 🧾 Publications at [Scholar](https://scholar.google.com/citations?user=KwHx9pAAAAAJ&hl=es)  
-- 🌐 [Personal site](https://crisnavarrete.github.io/cnavarrete/)
+- 🌐 [Personal site](https://crisnavarrete.github.io/navarrete/)
 
 ## 🧾 Previous & ongoing topics
 I’ve worked on questions around:
