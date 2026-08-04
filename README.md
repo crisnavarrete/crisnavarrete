@@ -28,6 +28,7 @@ I’ve worked on questions around:
 - philosophy of social science & sociological theory 
 - future studies  
 - energy transitions
+- qualitative research methods
 
 ## 🔭 Currently working on
 - Building a **longitudinal socio-environmental burden dataset (2005–2024)**
