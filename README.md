@@ -30,13 +30,14 @@ I’ve worked on questions around:
 - energy transitions
 
 ## 🔭 Currently working on
-- Building a **longitudinal socio-environmental burden dataset (2005–2023)**
+- Building a **longitudinal socio-environmental burden dataset (2005–2024)**
 - Case study design on **whole energy-system transitions**
 - Linking **policy/state action** to local socio-ecological impacts
 
 ## 🌱 Currently learning
 - Epidemiological spatial analysis  
-- Network analysis  
+- Network analysis
+- Multiverse analysis  
 
 ## 🤝 Let’s connect
 - Twitter/X: https://x.com/navarreteoya  
